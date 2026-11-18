@@ -1,0 +1,14 @@
+{
+  "model_name": "Gradient Boosting Regressor",
+  "trained_at_utc": "2026-11-18T00:52:41.985075+00:00",
+  "features": [
+    "gdp_per_capita",
+    "social_support",
+    "healthy_life_expectancy",
+    "freedom",
+    "generosity",
+    "corruption_perception",
+    "region"
+  ],
+  "target": "happiness_score"
+}
